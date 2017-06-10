@@ -1,0 +1,40 @@
+body{
+	background-color:black;
+}
+
+.intro{
+	
+	background-color:white;
+	margin:20px;
+	padding:30px;
+	color:6710d1;
+	border:"20px solid black";
+	font-size:200%;
+	
+	
+}
+.contact{
+background-color:#aa2291;
+	color:white;
+	margin:20px;
+	padding:30px;
+	border:"20px solid black";
+	font-size:200%;	
+}
+.img-circle {
+  border-radius: 50%;
+}
+
+}
+img.pull-top {
+  margin-top: 40px;
+}
+.lists{
+	
+
+	color:white;
+}
+.pro{
+	
+	
+}
